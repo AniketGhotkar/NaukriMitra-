@@ -25,7 +25,7 @@ This project is a job portal web application that allows job seekers to view and
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/omkarauti11/RojgaarSaathi.git](https://github.com/AniketGhotkar/NaukriMitra-
+    git clone https://github.com/AniketGhotkar/NaukriMitra-
     ```
 
 2. **Install backend dependencies:**
